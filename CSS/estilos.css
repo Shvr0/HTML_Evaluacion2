@@ -1,0 +1,17 @@
+nav a:hover{
+    text-decoration: underline;
+}
+
+.login-form{
+    width: 100%;
+    display: flex;
+    margin: auto;
+
+    form{
+        display: flex;
+        margin: auto;
+        .camposForm{
+            width: 100%;
+        }
+    }
+}
