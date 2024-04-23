@@ -1,17 +1,12 @@
+html, body, header, nav, div, ul, li, a, img, p, table{
+    margin: 0;
+    padding: 0;
+    font-family: Calibri, Arial;
+}
+
 nav a:hover{
     text-decoration: underline;
 }
 
-.login-form{
-    width: 100%;
-    display: flex;
-    margin: auto;
 
-    form{
-        display: flex;
-        margin: auto;
-        .camposForm{
-            width: 100%;
-        }
-    }
-}
+
